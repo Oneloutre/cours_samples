@@ -1,0 +1,3 @@
+[submodule "fakepass_x"]
+	path = fakepass_x
+	url = https://github.com/Oneloutre/fakepass_x
