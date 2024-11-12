@@ -1,3 +1,6 @@
 [submodule "fakepass_x"]
 	path = fakepass_x
 	url = https://github.com/Oneloutre/fakepass_x
+[submodule "tp_reseau_it4"]
+	path = tp_reseau_it4
+	url = https://github.com/Oneloutre/tp_reseau_it4
