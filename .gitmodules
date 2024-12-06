@@ -7,3 +7,6 @@
 [submodule "Ethical_hacking"]
 	path = Ethical_hacking
 	url = https://github.com/Oneloutre/Ethical_hacking.git
+[submodule "Ethical_Hacking_TP_1"]
+	path = Ethical_Hacking_TP_1
+	url = https://github.com/Oneloutre/Ethical_Hacking_TP_1
