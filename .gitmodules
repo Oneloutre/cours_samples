@@ -10,3 +10,6 @@
 [submodule "Ethical_Hacking_TP_1"]
 	path = Ethical_Hacking_TP_1
 	url = https://github.com/Oneloutre/Ethical_Hacking_TP_1
+[submodule "TP_AD"]
+	path = TP_AD
+	url = https://github.com/Oneloutre/TP_AD
